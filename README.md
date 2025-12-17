@@ -102,9 +102,6 @@ mult_uav_ppo_case/
 tensorboard --logdir=./data/train
 ```
 
-## 许可证
-
-[添加您的许可证信息]
 
 ## 贡献
 

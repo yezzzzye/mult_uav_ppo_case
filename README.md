@@ -33,8 +33,8 @@
 
 1. 克隆仓库：
 ```bash
-git clone <your-repo-url>
-cd ppo_case
+git clone https://github.com/yezzzzye/mult_uav_ppo_case.git
+cd mult_uav_ppo_case
 ```
 
 2. 安装依赖：

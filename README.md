@@ -81,11 +81,12 @@ python train.py \
 ## 项目结构
 
 ```
-ppo_case/
+mult_uav_ppo_case/
 ├── train.py              # 主训练脚本
-├── ppo_continuous.py      # PPO 算法实现
+├── ppo_continuous.py     # PPO 算法实现
 ├── normalization.py      # 归一化工具
 ├── replaybuffer.py       # 经验回放缓冲区
+├── demo                  # case演示
 ├── mpe/                  # 多智能体环境
 │   ├── MPE_env.py        # MPE 环境封装
 │   ├── environment.py    # 多智能体环境基类

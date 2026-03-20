@@ -33,7 +33,7 @@ https://github.com/user-attachments/assets/d8f98f63-9f6b-4217-b9ea-298e51aea309
 
 ## 环境要求
 
-- Python 3.7+
+- Python 3.7-3.9，python版本不可以太新
 - PyTorch 1.8+
 - 其他依赖见 `requirements.txt`
 
